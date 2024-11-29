@@ -1,0 +1,54 @@
+/* appartement.css */
+
+.appartements {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centrer les éléments horizontalement */
+}
+
+.appartement {
+  margin: 10px;
+}
+
+.appartement-image-container {
+  position: relative;
+  width: 521px;
+  height: 518px;
+}
+
+.appartement-image {
+  width: 100%;
+  height: auto;
+}
+
+.appartement-part {
+  position: absolute;
+}
+
+.part1 {
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.part2 {
+  top: 0;
+  left: 50%;
+  width: 50%;
+  height: 50%;
+}
+
+.part3 {
+  top: 50%;
+  left: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.part4 {
+  top: 50%;
+  left: 50%;
+  width: 50%;
+  height: 50%;
+}

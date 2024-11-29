@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{A4B897F9-DA3C-4FD5-B61F-876618257C71}|Default">
+  <MonoDevelop.Ide.ItemProperties.GestionStock PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionStock/appsettings.json">
+    <Files>
+      <File FileName="GestionStock/Models/User.cs" />
+      <File FileName="GestionStock/Program.cs" />
+      <File FileName="GestionStock/appsettings.json" Line="14" Column="131" />
+      <File FileName="GestionStock/Models/Product.cs" />
+      <File FileName="GestionStock/Models/Commande.cs" />
+      <File FileName="GestionStock/Models/ProductHistory.cs" />
+      <File FileName="GestionStock/Data/MyDbContext.cs" />
+      <File FileName="GestionStock/ViewModels/RegisterViewModel.cs" />
+      <File FileName="GestionStock/Controllers/AccountController.cs" />
+      <File FileName="GestionStock/Utilities/JwtOptions.cs" />
+      <File FileName="GestionStock/Utilities/JwtUtils.cs" />
+      <File FileName="GestionStock/ViewModels/LoginViewModel.cs" />
+      <File FileName="GestionStock/ViewModels/UpdatePasswordVM.cs" />
+      <File FileName="GestionStock/Controllers/ProductsController.cs" />
+      <File FileName="GestionStock/ViewModels/ProductAddViewModel.cs" />
+      <File FileName="GestionStock/Migrations/MyDbContextModelSnapshot.cs" />
+      <File FileName="GestionStock/Properties/launchSettings.json" />
+      <File FileName="GestionStock/Migrations/20240720164649_FirstMigration.cs" />
+      <File FileName="GestionStock/Models/Composent.cs" />
+      <File FileName="GestionStock/Controllers/ComponentsController.cs" />
+      <File FileName="GestionStock/ViewModels/CompoenetsPatchVM.cs" />
+      <File FileName="GestionStock/ViewModels/ComponentAddVM.cs" />
+      <File FileName="GestionStock/Migrations/20240725142921_UpdateProductModel.cs" />
+      <File FileName="GestionStock/Migrations/20240725144358_UpdateProductModelDate.cs" />
+      <File FileName="GestionStock/ViewModels/ProductUpdateVM.cs" />
+      <File FileName="GestionStock/Controllers/CommandesController.cs" />
+      <File FileName="GestionStock/ViewModels/CommandeAddVM.cs" />
+      <File FileName="GestionStock/ViewModels/CommandeUpdateVM.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionStock" expanded="True">
+            <Node name="GestionStock" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

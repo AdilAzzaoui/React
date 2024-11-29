@@ -1,0 +1,26 @@
+.contact-page {
+  margin-top: 50px;
+}
+
+.contact-info {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}

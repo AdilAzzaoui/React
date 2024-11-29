@@ -1,0 +1,46 @@
+/* style.css */
+.notification-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.notification-message {
+  font-weight: bold;
+}
+
+.notification-date {
+  font-size: 0.8rem;
+  color: grey;
+}
+
+.notification-counter {
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+  display: none; /* Par défaut, masqué */
+}
+
+.notification-counter.active {
+  display: inline-block; /* Affiché lorsque la classe active est présente */
+}
+.dropdown-item {
+  padding: 0.5rem 1rem; /* Espacement interne */
+}
+
+.dropdown-link {
+  color: #333; /* Couleur du texte */
+  text-decoration: none; /* Supprimer le soulignement du lien */
+  display: block; /* Afficher comme un bloc pour remplir l'espace */
+  transition: background-color 0.3s ease; /* Animation de transition */
+}
+
+.dropdown-link:hover {
+  background-color: #f0f0f0; /* Couleur de fond au survol */
+}
+
